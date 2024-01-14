@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "503853682022",
+    "firebase_url": "https://shawarmaversion2-default-rtdb.firebaseio.com",
+    "project_id": "shawarmaversion2",
+    "storage_bucket": "shawarmaversion2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503853682022:android:0e2898acb315424a914ca7",
+        "android_client_info": {
+          "package_name": "com.example.shawarmaversion2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp7rhw40rfzQw8s5j1TDuOxUOXI5tJTuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
